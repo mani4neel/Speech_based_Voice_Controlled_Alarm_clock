@@ -1,0 +1,40 @@
+﻿Build started 21/11/2022 12:46:17.
+     1>Project "C:\Users\Asus\Desktop\vs\25_Alarm_clock\25_code\Main_Application\Alarm\Alarm.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Alarm.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Alarm.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Alarm.cpp /clr:nostdlib 
+         Alarm.cpp
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(866): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(371) : see declaration of 'sprintf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(898): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(371) : see declaration of 'sprintf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1067): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1073): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1077): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1080): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(371) : see declaration of 'sprintf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1087): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1090): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(371) : see declaration of 'sprintf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1098): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1102): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h.(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\vs\25_alarm_clock\25_code\main_application\alarm\hmm.h(1162): error C3861: 'set_alarm': identifier not found
+     1>Done Building Project "C:\Users\Asus\Desktop\vs\25_Alarm_clock\25_code\Main_Application\Alarm\Alarm.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.02

@@ -1,0 +1,118 @@
+﻿Build started 16-11-2021 18:58:56.
+     1>Project "E:\IITG Course work\Speech Processing\214101010\214101010_ DigitRecognition_HMM\hmm\hmm.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\IITG Course work\Speech Processing\214101010\214101010_ DigitRecognition_HMM\Release\".
+       InitializeBuildStatus:
+         Creating "Release\hmm.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\hmm.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\hmm.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt hmm.cpp
+         hmm.cpp
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(358): error C2143: syntax error : missing ')' before 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(358): error C2143: syntax error : missing ';' before 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(359): error C2059: syntax error : ')'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(360): error C2143: syntax error : missing ';' before '{'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(360): error C2447: '{' : missing function header (old-style formal list?)
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(367): error C2143: syntax error : missing ')' before 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(367): error C2143: syntax error : missing ';' before 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(368): error C2059: syntax error : ')'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(369): error C2143: syntax error : missing ';' before '{'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(369): error C2447: '{' : missing function header (old-style formal list?)
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(1083): error C2143: syntax error : missing ',' before 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(1084): error C2988: unrecognizable template declaration/definition
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(1084): error C2059: syntax error : 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(1084): error C2059: syntax error : ')'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(1084): error C2090: function returns array
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(1084): error C2143: syntax error : missing ')' before '<end Parse>'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(11322): error C2059: syntax error : 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(11322): error C2238: unexpected token(s) preceding ';'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(11341): error C2059: syntax error : 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h(11341): error C2238: unexpected token(s) preceding ';'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wincrypt.h(4688): error C2059: syntax error : 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wincrypt.h(4688): error C2238: unexpected token(s) preceding ';'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wincrypt.h(4719): error C2059: syntax error : 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wincrypt.h(4719): error C2238: unexpected token(s) preceding ';'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wincrypt.h(4749): error C2059: syntax error : 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wincrypt.h(4749): error C2238: unexpected token(s) preceding ';'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\objbase.h(237): error C2143: syntax error : missing ',' before 'constant'
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\objbase.h(237): error C2988: unrecognizable template declaration/definition
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\objbase.h(237): error C2059: syntax error : 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8431): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8431): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8431): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8431): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8583): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8583): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8583): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8583): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8586): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8586): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8586): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8586): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8589): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8589): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8589): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8589): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8592): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8592): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8592): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8592): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8595): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8595): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8595): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8595): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8598): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8598): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8598): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8598): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8601): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8601): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8601): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8601): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8607): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8607): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8607): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8607): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8610): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8610): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8610): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8610): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8613): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8613): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8613): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8613): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8616): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8616): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8616): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8616): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8619): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8619): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8619): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8619): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8838): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8838): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8838): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8838): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8841): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8841): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8841): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8841): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8844): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8844): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8844): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8844): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8847): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8847): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8847): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8847): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8850): error C2143: syntax error : missing ')' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8850): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8850): error C2059: syntax error : ')'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8850): error C2238: unexpected token(s) preceding ';'
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h(8850): fatal error C1003: error count exceeds 100; stopping compilation
+     1>Done Building Project "E:\IITG Course work\Speech Processing\214101010\214101010_ DigitRecognition_HMM\hmm\hmm.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.68

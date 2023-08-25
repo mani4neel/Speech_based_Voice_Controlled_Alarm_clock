@@ -1,0 +1,59 @@
+﻿Build started 14/11/2022 04:17:11.
+     1>Project "C:\Users\Asus\Desktop\project\30_Project\30_code\Training_module\hmm\hmm.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\hmm.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\hmm.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt hmm.cpp
+         hmm.cpp
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(16): warning C4005: 'No_of_files' : macro redefinition
+                 c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\stdafx.h(15) : see previous definition of 'No_of_files'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(696): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(728): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(884): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(890): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(894): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(897): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(904): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(907): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(915): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(919): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(944): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(948): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(878): warning C4101: 'day' : unreferenced local variable
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(877): warning C4101: 'pre_word' : unreferenced local variable
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(876): warning C4101: 'hour' : unreferenced local variable
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(878): warning C4101: 'str2' : unreferenced local variable
+     1>c:\users\asus\desktop\project\30_project\30_code\training_module\hmm\hmm.cpp(878): warning C4101: 'str' : unreferenced local variable
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Asus\Desktop\project\30_Project\30_code\Training_module\Debug\hmm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hmm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Asus\Desktop\project\30_Project\30_code\Training_module\Debug\hmm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Asus\Desktop\project\30_Project\30_code\Training_module\Debug\hmm.lib" /MACHINE:X86 Debug\hmm.exe.embed.manifest.res
+         Debug\hmm.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\hmm.exe.embed.manifest" /manifest Debug\hmm.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         hmm.vcxproj -> C:\Users\Asus\Desktop\project\30_Project\30_code\Training_module\Debug\hmm.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\hmm.unsuccessfulbuild".
+         Touching "Debug\hmm.lastbuildstate".
+     1>Done Building Project "C:\Users\Asus\Desktop\project\30_Project\30_code\Training_module\hmm\hmm.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.57
